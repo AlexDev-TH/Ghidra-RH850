@@ -1,0 +1,4 @@
+# Compiled SLEIGH output is specific to the Ghidra version that built it.
+*.sla
+build/
+dist/
